@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Simple changes (Vanilla)</name>
+	<author>udong123</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>udong123.SimpleChanges</packageId>
+	<description>
+[h1]--- Simple changes ---[/h1]
+
+I made this mod to improve the inconvenience of playing games based on my experience.
+It may be OP, or not very helpful.
+
+Add Thing(s)
+
+Improved Shelf (also applied small one)
+- No Quality that increase your colony wealth unnecessarily
+- Slowness when moving up the shelf is 10% (Existing 50%)
+- Standable ([strike]Can mine stone behind[/strike] or stay on shelf when pawn drafted etc..)
+
+It's my first mod to practice modding/coding,
+so there may be no more update if I'm satisfied with game :P
+
+If it is updated, the Unified edition and single edition will go up both. (This page would be Unified edition for vanilla.)
+
+
+	</description>
+</ModMetaData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<LanguageData>
+	<BetterShelf.label>개선된 선반</BetterShelf.label>
+	<BetterShelf.description>더 간편하게 개선된 선반입니다.\n\n맨땅에 비해 세 배의 물건을 적재할 수 있는 삼중 선반입니다. 선반에 보관한 물건은 절대 손상되지 않고 주변 미관에도 영향을 주지 않습니다.\n\n선반의 수납공간은 제한돼있으므로 바위 덩어리나 건물, 식물, 대형 시체 등은 보관할 수 없습니다.</BetterShelf.description>
+	<BetterShelfSmall.label>개선된 소형 선반</BetterShelfSmall.label>
+	<BetterShelfSmall.description>더 간편하게 개선된 선반입니다.\n\n맨땅에 비해 세 배의 물건을 적재할 수 있는 삼중 선반입니다. 선반에 보관한 물건은 절대 손상되지 않고 주변 미관에도 영향을 주지 않습니다.\n\n선반의 수납공간은 제한돼있으므로 바위 덩어리나 건물, 식물, 대형 시체 등은 보관할 수 없습니다.</BetterShelfSmall.description>
+</LanguageData>
